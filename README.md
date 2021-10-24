@@ -3,3 +3,4 @@ A list of Star Wars bots
 
 
 - bb8
+- c3po
